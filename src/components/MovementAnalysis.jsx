@@ -10,7 +10,7 @@ const MovementAnalysis = () => {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4 section-title">
-            2. Movement Analysis (FM vs SM)
+            Movement Analysis (FM vs SM)
           </h2>
           <p className="text-gray-300 max-w-3xl mx-auto">
             Stock classification based on stock value vs average monthly sales
